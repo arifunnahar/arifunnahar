@@ -2,14 +2,15 @@
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/b4a3fdc5-89ef-4549-8ab9-6d7adc564e48" />
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arifunnahar&label=Profile%20views&color=0e75b6&style=flat" alt="arifunnahar" />
 </p>
 
-- 🌱 I’m currently learning **Vibe Coding**
-- 👩‍💻 I love building **responsive & user-friendly websites**
-- 📫 Connect with me via [LinkedIn](https://linkedin.com/in/arifun-nahar-lipi)
+- 🌱 I’m currently learning **Vibe Coding**  
+- 👩‍💻 I love building **responsive & user-friendly websites**  
+- 📫 Connect with me via  
+  [LinkedIn](https://www.linkedin.com/in/arifun-nahar-lipi-web/) |  
+  [GitHub](https://github.com/arifunnahar)
 
 ---
 
